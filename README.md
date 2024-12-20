@@ -17,6 +17,14 @@ Rpository for practicing git pull, push, making first pull request and working w
 * **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
    > _Make sure to start and end your block with seperating lines_
 ---
- Add your blocks here ⬇⬇⬇
+## Rawan Montasser
+
+**Favorite Quote:** "Be A Goldfish"
+
+**LinkedIn:** (https://www.linkedin.com/in/rawan-montasser/)
+
+**Additional Notes:** I'm nice at ping pong -KW
+
+
 ---
 
