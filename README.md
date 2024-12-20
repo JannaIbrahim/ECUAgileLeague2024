@@ -19,4 +19,10 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
+## Joelle Fouad 
+ 
+A person who never made a mistake never tried anything new.
 
+- Albert Einstein -
+- **Linkedin**: www.linkedin.com/in/joëlle-amal-9765131a2
+- **ID**: 192100095
