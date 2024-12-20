@@ -19,4 +19,7 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
+Gana Ahmed Kamal
+“In three words I can sum up everything I've learned about life: it goes on.”
+― Robert Frost
 
