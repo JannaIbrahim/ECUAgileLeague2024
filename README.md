@@ -19,4 +19,8 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
+## Ahmed Ashraf Helmy 192100128
+* **Quote:** ' Do not think just say it '
+* :link:**Linkedin:**  www.linkedin.com/in/ahmed-nassar-5206a12b7
+additions love everyone and anything 
 
