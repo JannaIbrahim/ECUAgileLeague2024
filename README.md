@@ -17,6 +17,9 @@ Rpository for practicing git pull, push, making first pull request and working w
 * **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
    > _Make sure to start and end your block with seperating lines_
 ---
- Add your blocks here ⬇⬇⬇
+Mohamed Saadeldin Mahmoud Emam
+"Be yourself; everyone else is already taken."
+my linkedin account is bugging
+Please give me my marks.
 ---
 
