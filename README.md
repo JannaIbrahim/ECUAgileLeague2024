@@ -19,4 +19,8 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
+## Abdelrahman Haitham
+* **Quote:** 'All that glitters is not gold'- William Shakespeare.
+* :link:**Linkedin:** https://www.linkedin.com/in/abdelrahman-haitham-783a5525b/
+
 
