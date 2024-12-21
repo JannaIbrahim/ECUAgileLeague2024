@@ -19,4 +19,12 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
+## Youssef Muhammed Gabr (192100069)
+
+* **Quote:** _"The best way to predict the future is to create it"_
+* :link: **LinkedIn:** (http://linkedin.com/in/youssef-gabr-903a22242)
+* **Additions:** _Agile GitHub Assignment_ 
+
+
+
 
