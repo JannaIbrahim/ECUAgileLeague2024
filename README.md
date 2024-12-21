@@ -18,5 +18,9 @@ Rpository for practicing git pull, push, making first pull request and working w
    > _Make sure to start and end your block with seperating lines_
 ---
  Add your blocks here ⬇⬇⬇
+ ## Omar Waleed  -  192100103
+* **Quote:** _"If you are brave enough to say goodbye, life will reward you with a new hello."_
+* :link:**Linkedin:** _[\[My Linkedin\]](https://www.linkedin.com/in/omar-waleed-60806b265/)_
+* **Additions:** _I love working on AI and Data Science projects. Feel free to connect and collaborate!_
 ---
 
