@@ -22,6 +22,6 @@ Rpository for practicing git pull, push, making first pull request and working w
  ## Yousef Mohamed Abdelhady
 * **Quote:** "The best way to predict the future is to create it." 
 * **Linkedin:** https://linkedin.com/in/yousef-mohamed-hady
-* **Additions:** i maked Some Projects u can look at my linkedin <3
+* **Additions:** i maked Some Projects u can look at My Github Account <3
 ---
 
