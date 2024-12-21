@@ -18,5 +18,10 @@ Rpository for practicing git pull, push, making first pull request and working w
    > _Make sure to start and end your block with seperating lines_
 ---
  Add your blocks here ⬇⬇⬇
+
+ ## Yousef Mohamed Abdelhady 192100121
+* **Quote:** "The best way to predict the future is to create it." 
+* **Linkedin:** https://linkedin.com/in/yousef-mohamed-hady
+* **Additions:** i maked Some Projects u can look at My Github Account <3
 ---
 
