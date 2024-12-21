@@ -10,13 +10,14 @@ Rpository for practicing git pull, push, making first pull request and working w
 6. 💡 **Note:** Before pushing your changes, pull any new changes from the original repository to your local branch,Resolve any conflicts if they arise and commit Then push your changes.
 
 ---
-# Member Block Example:
-## Your Name
-* **Quote:** _[Your Favorite Quote]_
-* :link:**Linkedin:** _[Your linkedin account link]_
-* **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
-   > _Make sure to start and end your block with seperating lines_
 ---
- Add your blocks here ⬇⬇⬇
+
+## Mohamed Mahmoud
+**Quote**: "The only limit to our realization of tomorrow is our doubts of today."  
+**LinkedIn**: [linkedin.com/in/mohamedmahmoud](https://www.linkedin.com/in/mohamedmahmoud)  
+**Additions**:  
+- I enjoy learning about Agile methodologies.  
+- Excited to connect with peers in this course!  
+
 ---
 
