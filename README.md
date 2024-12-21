@@ -19,4 +19,7 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
+Farida Diaa
+Quote: "To Infinity and Beyond!" - Buzz Lightyear
+Additions: work it, make it, do it makes us harder, better, faster, stronger - kanye west
 
