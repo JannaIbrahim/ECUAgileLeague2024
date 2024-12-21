@@ -19,4 +19,11 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
+# Member Block Example:
+## Merna Ahmed
+* **Quote:** _agilee _
+* :link:**mernaomar@link** _[Your linkedin account link]_
+* **one two three** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
+   > _Make sure to start and end your block with seperating lines_
+
 
