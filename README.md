@@ -19,4 +19,8 @@ Rpository for practicing git pull, push, making first pull request and working w
 ---
  Add your blocks here ⬇⬇⬇
 ---
-
+## Omar Mahmoud Atwa
+* **Quote:** _ صل علي النبي _
+* :link:**Linkedin:** _www.linkedin.com/in/omar-atwa-2ba124232_
+* **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
+---
