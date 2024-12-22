@@ -11,12 +11,8 @@ Rpository for practicing git pull, push, making first pull request and working w
 
 ---
 # Member Block Example:
-## Your Name
-* **Quote:** _[Your Favorite Quote]_
-* :link:**Linkedin:** _[Your linkedin account link]_
-* **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
-   > _Make sure to start and end your block with seperating lines_
----
- Add your blocks here ⬇⬇⬇
----
+## mazen mohsen 192100158
+* **Quote:** _[tahya masr]_
+* :link:**Linkedin:** _[https://www.linkedin.com/in/mazen-mohsen-477b04334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]_
+
 
