@@ -21,6 +21,7 @@ Rpository for practicing git pull, push, making first pull request and working w
  Add your blocks here ⬇⬇⬇
 ---
 
+
 ## Mohamed Safwat Hassan 192100140
 * **Quote:** _[السنا سوا دوامةٍ من الغبار في مهب الريح؟]_
 * :link:**Linkedin:** _[www.linkedin.com/in/mohmed-undefined-73bba831b]_
@@ -49,4 +50,10 @@ Rpository for practicing git pull, push, making first pull request and working w
    - I have a strong interest in networks and data analysis.  
    - I enjoy coding and working on projects in Network Packet Tracer, exploring different networking concepts.  
    - Currently, I am focusing on improving my skills in back-end development and continuously working to grow in this area.  
+---
+
+## Rahma Ali Bauomi 
+* **ID:** 192100170.
+* **Quote:** "كلنا فى يد الله.. وكل شيء فى يَد الله آمن ".
+* **Linkedin Link:** [RahmaAli](https://www.linkedin.com/in/rahma-ali-981827272/).
 ---
