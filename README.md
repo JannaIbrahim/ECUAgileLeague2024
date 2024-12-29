@@ -19,8 +19,8 @@ Rpository for practicing git pull, push, making first pull request and working w
    > _Make sure to start and end your block with seperating lines_
 ---
  Add your blocks here ⬇⬇⬇
-
 ---
+
 ## Mohamed Safwat Hassan 192100140
 * **Quote:** _[السنا سوا دوامةٍ من الغبار في مهب الريح؟]_
 * :link:**Linkedin:** _[www.linkedin.com/in/mohmed-undefined-73bba831b]_
@@ -41,4 +41,12 @@ Rpository for practicing git pull, push, making first pull request and working w
       - **Database:** MongoDB.
    - **Skills:** Problem-solving, collaboration, and a passion for learning.  
    - **Fun Fact:** I love merging creativity with functionality in both games and code.
+---
+## Sherif Diaa Elsayed Hanafy 
+* **Quote:** _"Every failure is a lesson, and every success comes from trying again"_
+* :link:**LinkedIn:** [_Sherif Hanafy_](https://www.linkedin.com/in/sherif-hanafy-41866a342)  
+* **Additions:** 
+   - I have a strong interest in networks and data analysis.  
+   - I enjoy coding and working on projects in Network Packet Tracer, exploring different networking concepts.  
+   - Currently, I am focusing on improving my skills in back-end development and continuously working to grow in this area.  
 ---
