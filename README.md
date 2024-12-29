@@ -11,6 +11,7 @@ Rpository for practicing git pull, push, making first pull request and working w
 
 ---
 # Member Block Example:
+
 ## Your Name
 * **Quote:** _[Your Favorite Quote]_
 * :link:**Linkedin:** _[Your linkedin account link]_
@@ -20,6 +21,11 @@ Rpository for practicing git pull, push, making first pull request and working w
  Add your blocks here ⬇⬇⬇
 ---
 
+## Mohamed Safwat Hassan 192100140
+* **Quote:** _[السنا سوا دوامةٍ من الغبار في مهب الريح؟]_
+* :link:**Linkedin:** _[www.linkedin.com/in/mohmed-undefined-73bba831b]_
+
 ## Kirolos Mourice William
 * **Quote:** _Never trust anyone._
 * :link:**Linkedin:** _[www.linkedin.com/in/kerolos-mourice-456a50263](https://www.linkedin.com/in/kerolos-mourice-456a50263)_
+
