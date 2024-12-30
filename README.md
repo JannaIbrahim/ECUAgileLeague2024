@@ -88,6 +88,10 @@ Patrice Yasser
  [www.linkedin.com/in/patrice-salib-8976a52a1]
  chilling at home
 ---
+## Ahmed Ashraf Helmy 192100128
+* **Quote:** ' Do not think just say it '
+* :link:**Linkedin:**  www.linkedin.com/in/ahmed-nassar-5206a12b7
+additions love everyone and anything 
 
 ## Salma Maher
 
