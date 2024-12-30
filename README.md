@@ -17,9 +17,10 @@ Before pushing your changes, pull any new changes from the original repository t
 ### **Add Your Blocks Below ⬇⬇⬇**
 ---
 # Member Block Example:
-## AHMED MOHAMED AHMED MONTASER
-* **Quote:** _[“It is hard to fail but it is worse never to have tried to succeed.”]_
-* :link:**Linkedin:** _[ahmedmontaser796]_
+
+## Your Name
+* **Quote:** _your favorite qoute_
+* :link:**Linkedin:** _your linkedin account_
 * **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
 
    > _Make sure to start and end your block with seperating lines_
@@ -193,3 +194,17 @@ Mohamed Saadeldin Mahmoud Emam
 my linkedin account is bugging
 Please give me my marks.
 ====
+
+## AHMED MOHAMED AHMED MONTASER
+* **Quote:** _[“It is hard to fail but it is worse never to have tried to succeed.”]_
+* :link:**Linkedin:** _[ahmedmontaser796]_
+* **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
+
+   > _Make sure to start and end your block with seperating lines_
+---
+## mazen mohsen 192100158
+* **Quote:** _[tahya masr]_
+* :link:**Linkedin:** _[https://www.linkedin.com/in/mazen-mohsen-477b04334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]_
+
+===
+
