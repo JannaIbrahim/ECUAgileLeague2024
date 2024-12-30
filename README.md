@@ -150,6 +150,7 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 * **Additions:** i maked Some Projects u can look at My Github Account <3
 ====
 
+
 ## Omar Mahmoud Atwa
 * **Quote:** _ صل علي النبي _
 * :link:**Linkedin:** _www.linkedin.com/in/omar-atwa-2ba124232_
@@ -183,4 +184,10 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 * **Quote:** _[We must form our minds by reading deep rather than wide.]_
 * :link:**Linkedin:** _[www.linkedin.com/in/abdelrahman-omar-b644b7219]_
 ====
+
+
+## Fatma Shams - 192100139
+* **Quote:** _[من صبر على الشدائد بلغ مراده]_
+* :link:**Linkedin:** _[http://www.linkedin.com/in/fatma-as-202223343]_
+===
 
