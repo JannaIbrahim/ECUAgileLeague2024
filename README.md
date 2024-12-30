@@ -23,6 +23,13 @@ Rpository for practicing git pull, push, making first pull request and working w
 
  Add your blocks here ⬇⬇⬇
  ---
+
+## Janna Ibrahim Elsheshtawy
+* **Quote:**
+*  > _"Where there is a will, there is a way"_
+* :link:**Linkedin:** We can connect through this [Linkedin account](https://www.linkedin.com/in/janna-lbrahim-b9817a1a1) and create great things🚀
+* Keep moving Forward💨
+---
  
 ## Mohamed Safwat Hassan 192100140
 * **Quote:** _[السنا سوا دوامةٍ من الغبار في مهب الريح؟]_
