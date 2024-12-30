@@ -57,10 +57,8 @@ Before pushing your changes, pull any new changes from the original repository t
    - I have a strong interest in networks and data analysis.  
    - I enjoy coding and working on projects in Network Packet Tracer, exploring different networking concepts.  
    - Currently, I am focusing on improving my skills in back-end development and continuously working to grow in this area.  
+
 ---
-Farida Diaa
-Quote: "To Infinity and Beyond!" - Buzz Lightyear
-Additions: work it, make it, do it makes us harder, better, faster, stronger - kanye west
 
 ## Rahma Ali Bauomi 
 * **ID:** 192100170.
@@ -98,10 +96,12 @@ Patrice Yasser
 
 **Additional Notes:** I'm nice at ping pong -KW
 ---
+
 Gana Ahmed Kamal
 “In three words I can sum up everything I've learned about life: it goes on.”
 ― Robert Frost
----
+
+===
 
 ## Joelle Fouad 
  
@@ -110,4 +110,18 @@ A person who never made a mistake never tried anything new.
 - Albert Einstein -
 - **Linkedin**: www.linkedin.com/in/joëlle-amal-9765131a2
 - **ID**: 192100095
----
+===
+Farida Diaa
+Quote: "To Infinity and Beyond!" - Buzz Lightyear
+Additions: work it, make it, do it makes us harder, better, faster, stronger - kanye west
+===
+
+
+## Mohamed Mahmoud
+**Quote**: "The only limit to our realization of tomorrow is our doubts of today."  
+**LinkedIn**: [linkedin.com/in/mohamedmahmoud](https://www.linkedin.com/in/mohamedmahmoud)  
+**Additions**:  
+- I enjoy learning about Agile methodologies.  
+- Excited to connect with peers in this course!  
+
+====
