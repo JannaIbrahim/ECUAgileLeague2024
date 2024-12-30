@@ -179,3 +179,8 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 * :link:**Linkedin:** _[https://www.linkedin.com/in/zainab-shams-6b8596329/]_
 ===
 
+## Abdelrahman Omar - 191900004
+* **Quote:** _[We must form our minds by reading deep rather than wide.]_
+* :link:**Linkedin:** _[www.linkedin.com/in/abdelrahman-omar-b644b7219]_
+====
+
