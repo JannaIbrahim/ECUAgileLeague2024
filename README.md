@@ -74,6 +74,7 @@ Before pushing your changes, pull any new changes from the original repository t
 |   _Reham_|    _White_  |
 
  **Goolgle Link ➡️**[ Click on](http://google.com)
+
 ---
 Patrice Yasser
  "If you good at something...dont do it for free"
@@ -125,3 +126,9 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 - Excited to connect with peers in this course!  
 
 ====
+
+ ## Omar Waleed  -  192100103
+* **Quote:** _"If you are brave enough to say goodbye, life will reward you with a new hello."_
+* :link:**Linkedin:** _[\[My Linkedin\]](https://www.linkedin.com/in/omar-waleed-60806b265/)_
+* **Additions:** _I love working on AI and Data Science projects. Feel free to connect and collaborate!_
+=======
