@@ -17,9 +17,9 @@ Before pushing your changes, pull any new changes from the original repository t
 ### **Add Your Blocks Below ⬇⬇⬇**
 ---
 # Member Block Example:
-## Your Name
-* **Quote:** _[Your Favorite Quote]_
-* :link:**Linkedin:** _[Your linkedin account link]_
+## AHMED MOHAMED AHMED MONTASER
+* **Quote:** _[“It is hard to fail but it is worse never to have tried to succeed.”]_
+* :link:**Linkedin:** _[ahmedmontaser796]_
 * **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
 
    > _Make sure to start and end your block with seperating lines_
