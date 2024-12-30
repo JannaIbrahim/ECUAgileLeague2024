@@ -168,6 +168,7 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 * **Quote:** 'All that glitters is not gold'- William Shakespeare.
 * :link:**Linkedin:** https://www.linkedin.com/in/abdelrahman-haitham-783a5525b/
 
+
 ---
 ## Zainab Shams - 192100138
 * **Quote:** _[إنَّ الله مع الصابرين]_
@@ -220,3 +221,9 @@ www.linkedin.com/in/abd-elshafy-ayman-3447a823a
 * **ID:** 192100029
 ===
 
+### Ahmed Mansour
+Student ID: 192000011  
+Quote: "The only limit to our realization of tomorrow will be our doubts of today."  
+🔗LinkedIn: [linkedin.com/in/ahmed-mansour]  
+Additions: I'm passionate about technology and always eager to learn new skills. Let's connect and share insights on software development and agile methodologies!
+====
