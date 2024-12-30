@@ -25,6 +25,7 @@ Before pushing your changes, pull any new changes from the original repository t
    > _Make sure to start and end your block with seperating lines_
 ---
 
+
  Add your blocks here ⬇⬇⬇
  ---
  
@@ -78,12 +79,21 @@ Patrice Yasser
  [www.linkedin.com/in/patrice-salib-8976a52a1]
  chilling at home
 ---
----
+
 ## Salma Maher
 
 - **Quote:** "Be your self"
 - **🔗 LinkedIn:** [Salma Maher's LinkedIn Profile](https://www.linkedin.com/in/salma-maher-2389b6237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Additions:** nothing
-
 ---
+
+## Rawan Montasser
+
+**Favorite Quote:** "Be A Goldfish"
+
+**LinkedIn:** (https://www.linkedin.com/in/rawan-montasser/)
+
+**Additional Notes:** I'm nice at ping pong -KW
+---
+
 
