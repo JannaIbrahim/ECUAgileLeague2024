@@ -59,11 +59,6 @@ Before pushing your changes, pull any new changes from the original repository t
    - Currently, I am focusing on improving my skills in back-end development and continuously working to grow in this area.  
 
 ---
-## Abdelrahman Haitham
-* **Quote:** 'All that glitters is not gold'- William Shakespeare.
-* :link:**Linkedin:** https://www.linkedin.com/in/abdelrahman-haitham-783a5525b/
-
-
 ## Rahma Ali Bauomi 
 * **ID:** 192100170.
 * **Quote:** "كلنا فى يد الله.. وكل شيء فى يَد الله آمن ".
@@ -173,4 +168,14 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 * :link:**Linkedin:** _[my linkedin account link]_
 * **Additions:** _always work hard trust the baby steps till you reach your goal!_
 ====
+
+## Abdelrahman Haitham
+* **Quote:** 'All that glitters is not gold'- William Shakespeare.
+* :link:**Linkedin:** https://www.linkedin.com/in/abdelrahman-haitham-783a5525b/
+
+---
+## Zainab Shams - 192100138
+* **Quote:** _[إنَّ الله مع الصابرين]_
+* :link:**Linkedin:** _[https://www.linkedin.com/in/zainab-shams-6b8596329/]_
+===
 
