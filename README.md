@@ -93,7 +93,6 @@ additions love everyone and anything
 * **Additions:** _Agile GitHub Assignment_ 
 ---
 
-
 ## Rawan Montasser
 
 **Favorite Quote:** "Be A Goldfish"
@@ -227,3 +226,10 @@ Quote: "The only limit to our realization of tomorrow will be our doubts of toda
 🔗LinkedIn: [linkedin.com/in/ahmed-mansour]  
 Additions: I'm passionate about technology and always eager to learn new skills. Let's connect and share insights on software development and agile methodologies!
 ====
+
+### Ahmed Amr
+- ID: 122100001
+- "Work hard in silence, let your success be your noise."
+- LinkedIn: (https://www.linkedin.com/in/ahmed-amr-5b614a282)
+- GitHub: (https://github.com/Ahmedamr199)
+===
