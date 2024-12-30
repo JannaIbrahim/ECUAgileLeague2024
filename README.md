@@ -59,6 +59,10 @@ Before pushing your changes, pull any new changes from the original repository t
    - Currently, I am focusing on improving my skills in back-end development and continuously working to grow in this area.  
 
 ---
+## Abdelrahman Haitham
+* **Quote:** 'All that glitters is not gold'- William Shakespeare.
+* :link:**Linkedin:** https://www.linkedin.com/in/abdelrahman-haitham-783a5525b/
+
 
 ## Rahma Ali Bauomi 
 * **ID:** 192100170.
