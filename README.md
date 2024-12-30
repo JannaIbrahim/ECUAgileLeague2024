@@ -1,4 +1,3 @@
-
 # ECUAgileLeague2024
 Rpository for practicing git pull, push, making first pull request and working with markdown for Agile Course at ECU 2023 Fall
 
@@ -208,3 +207,10 @@ Abdelshafy Ayman Elgendy
 192100092
 www.linkedin.com/in/abd-elshafy-ayman-3447a823a
 ====
+
+## Ahmed Essam Abdallah 192100088
+**Quote**: "We must use time as a tool, not as a couch."
+🔗 **LinkedIn**: [https://www.linkedin.com/in/ahmed-essam-74jft/](https://www.linkedin.com/in/ahmed-essam-74jft/)
+---
+
+
