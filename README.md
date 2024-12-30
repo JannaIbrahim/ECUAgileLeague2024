@@ -25,7 +25,6 @@ Before pushing your changes, pull any new changes from the original repository t
    > _Make sure to start and end your block with seperating lines_
 ---
 
-
  Add your blocks here ⬇⬇⬇
  ---
  
@@ -96,8 +95,7 @@ additions love everyone and anything
 * **Quote:** _"The best way to predict the future is to create it"_
 * :link: **LinkedIn:** (http://linkedin.com/in/youssef-gabr-903a22242)
 * **Additions:** _Agile GitHub Assignment_ 
-
-
+---
 
 
 ## Rawan Montasser
@@ -150,7 +148,6 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 * **Additions:** i maked Some Projects u can look at My Github Account <3
 ====
 
-
 ## Omar Mahmoud Atwa
 * **Quote:** _ صل علي النبي _
 * :link:**Linkedin:** _www.linkedin.com/in/omar-atwa-2ba124232_
@@ -191,3 +188,8 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 * :link:**Linkedin:** _[http://www.linkedin.com/in/fatma-as-202223343]_
 ===
 
+Mohamed Saadeldin Mahmoud Emam
+"Be yourself; everyone else is already taken."
+my linkedin account is bugging
+Please give me my marks.
+====
