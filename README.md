@@ -133,10 +133,14 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 * **Additions:** _I love working on AI and Data Science projects. Feel free to connect and collaborate!_
 ====
 
-
-
  ## Yousef Mohamed Abdelhady 192100121
 * **Quote:** "The best way to predict the future is to create it." 
 * **Linkedin:** https://linkedin.com/in/yousef-mohamed-hady
 * **Additions:** i maked Some Projects u can look at My Github Account <3
 ====
+
+## Omar Mahmoud Atwa
+* **Quote:** _ صل علي النبي _
+* :link:**Linkedin:** _www.linkedin.com/in/omar-atwa-2ba124232_
+* **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
+---
