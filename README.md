@@ -59,6 +59,13 @@ Before pushing your changes, pull any new changes from the original repository t
    - Currently, I am focusing on improving my skills in back-end development and continuously working to grow in this area.  
 
 ---
+# Member Block Example:
+## Merna Ahmed
+* **Quote:** _agilee _
+* :link:**mernaomar@link** _[Your linkedin account link]_
+* **one two three** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
+   > _Make sure to start and end your block with seperating lines_
+
 
 ## Rahma Ali Bauomi 
 * **ID:** 192100170.
