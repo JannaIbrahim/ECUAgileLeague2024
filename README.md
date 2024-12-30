@@ -131,4 +131,12 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 * **Quote:** _"If you are brave enough to say goodbye, life will reward you with a new hello."_
 * :link:**Linkedin:** _[\[My Linkedin\]](https://www.linkedin.com/in/omar-waleed-60806b265/)_
 * **Additions:** _I love working on AI and Data Science projects. Feel free to connect and collaborate!_
-=======
+====
+
+
+
+ ## Yousef Mohamed Abdelhady 192100121
+* **Quote:** "The best way to predict the future is to create it." 
+* **Linkedin:** https://linkedin.com/in/yousef-mohamed-hady
+* **Additions:** i maked Some Projects u can look at My Github Account <3
+====
