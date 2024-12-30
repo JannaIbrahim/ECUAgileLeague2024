@@ -58,6 +58,9 @@ Before pushing your changes, pull any new changes from the original repository t
    - I enjoy coding and working on projects in Network Packet Tracer, exploring different networking concepts.  
    - Currently, I am focusing on improving my skills in back-end development and continuously working to grow in this area.  
 ---
+Gana Ahmed Kamal
+“In three words I can sum up everything I've learned about life: it goes on.”
+― Robert Frost
 
 ## Rahma Ali Bauomi 
 * **ID:** 192100170.
