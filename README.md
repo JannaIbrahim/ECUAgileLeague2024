@@ -101,6 +101,7 @@ additions love everyone and anything
 **LinkedIn:** (https://www.linkedin.com/in/rawan-montasser/)
 
 **Additional Notes:** I'm nice at ping pong -KW
+
 ---
 
 Gana Ahmed Kamal
@@ -213,4 +214,9 @@ www.linkedin.com/in/abd-elshafy-ayman-3447a823a
 🔗 **LinkedIn**: [https://www.linkedin.com/in/ahmed-essam-74jft/](https://www.linkedin.com/in/ahmed-essam-74jft/)
 ---
 
+## Yousef Mahmoud Anis  
+* Learn a thing about everything and learn everything about a thing 
+* :link:**Linkedin:** https://www.linkedin.com/in/yousef-mahmoud-160720327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+* **ID:** 192100029
+===
 
