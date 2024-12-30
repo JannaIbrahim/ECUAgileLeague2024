@@ -17,11 +17,11 @@ Before pushing your changes, pull any new changes from the original repository t
 ### **Add Your Blocks Below ⬇⬇⬇**
 ---
 # Member Block Example:
-
 ## Your Name
 * **Quote:** _[Your Favorite Quote]_
 * :link:**Linkedin:** _[Your linkedin account link]_
 * **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
+
    > _Make sure to start and end your block with seperating lines_
 ---
 
@@ -59,13 +59,6 @@ Before pushing your changes, pull any new changes from the original repository t
    - Currently, I am focusing on improving my skills in back-end development and continuously working to grow in this area.  
 
 ---
-# Member Block Example:
-## Merna Ahmed
-* **Quote:** _agilee _
-* :link:**mernaomar@link** _[Your linkedin account link]_
-* **one two three** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
-   > _Make sure to start and end your block with seperating lines_
-
 
 ## Rahma Ali Bauomi 
 * **ID:** 192100170.
@@ -163,3 +156,17 @@ Additions: work it, make it, do it makes us harder, better, faster, stronger - k
 * :link:**Linkedin:** _www.linkedin.com/in/omar-atwa-2ba124232_
 * **Additions:** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
 ---
+
+
+## Merna Ahmed
+* **Quote:** _agilee _
+* :link:**mernaomar@link** _[Your linkedin account link]_
+* **one two three** _Feel free to add here any additions you want to practice your markdown and share insights with your friends_
+   > _Make sure to start and end your block with seperating lines_
+===
+## Merna Hesham
+* **Quote:** _[never give up!]_
+* :link:**Linkedin:** _[my linkedin account link]_
+* **Additions:** _always work hard trust the baby steps till you reach your goal!_
+====
+
