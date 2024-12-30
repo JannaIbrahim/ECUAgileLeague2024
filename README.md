@@ -99,6 +99,14 @@ additions love everyone and anything
 - **🔗 LinkedIn:** [Salma Maher's LinkedIn Profile](https://www.linkedin.com/in/salma-maher-2389b6237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Additions:** nothing
 ---
+## Youssef Muhammed Gabr (192100069)
+
+* **Quote:** _"The best way to predict the future is to create it"_
+* :link: **LinkedIn:** (http://linkedin.com/in/youssef-gabr-903a22242)
+* **Additions:** _Agile GitHub Assignment_ 
+
+
+
 
 ## Rawan Montasser
 
