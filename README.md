@@ -58,9 +58,6 @@ Before pushing your changes, pull any new changes from the original repository t
    - I enjoy coding and working on projects in Network Packet Tracer, exploring different networking concepts.  
    - Currently, I am focusing on improving my skills in back-end development and continuously working to grow in this area.  
 ---
-Gana Ahmed Kamal
-“In three words I can sum up everything I've learned about life: it goes on.”
-― Robert Frost
 
 ## Rahma Ali Bauomi 
 * **ID:** 192100170.
@@ -98,5 +95,16 @@ Patrice Yasser
 
 **Additional Notes:** I'm nice at ping pong -KW
 ---
+Gana Ahmed Kamal
+“In three words I can sum up everything I've learned about life: it goes on.”
+― Robert Frost
+---
 
+## Joelle Fouad 
+ 
+A person who never made a mistake never tried anything new.
 
+- Albert Einstein -
+- **Linkedin**: www.linkedin.com/in/joëlle-amal-9765131a2
+- **ID**: 192100095
+---
